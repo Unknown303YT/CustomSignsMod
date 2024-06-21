@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "customsignsmod:block/imbe_sign"
+    }
+  }
+}
