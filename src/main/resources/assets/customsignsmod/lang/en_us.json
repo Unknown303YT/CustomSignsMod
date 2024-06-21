@@ -1,0 +1,28 @@
+{
+
+  "block.customsignsmod.pine_sign": "Pine Sign",
+  "block.customsignsmod.pine_hanging_sign": "Pine Hanging Sign",
+
+
+  "block.customsignsmod.cool_sign": "Duckie's Custom Sign",
+  "block.customsignsmod.apple_sign": "Shroom's Custom Sign",
+  "block.customsignsmod.banana_sign": "Dipper's Custom Sign",
+  "block.customsignsmod.cherry_sign": "Patches's Custom Sign",
+  "block.customsignsmod.durian_sign": "Clover's Custom Sign",
+  "block.customsignsmod.elder_sign": "Katya's Custom Sign",
+  "block.customsignsmod.fig_sign": "Theo's Custom Sign",
+  "block.customsignsmod.grape_sign": "Nova's Custom Sign",
+  "block.customsignsmod.honey_sign": "Nemmie's Custom Sign",
+  "block.customsignsmod.imbe_sign": "Puddles's Custom Sign",
+  "block.customsignsmod.jack_sign": "Maple's Custom Sign",
+  "block.customsignsmod.kiwi_sign": "Marmalade's Custom Sign",
+  "block.customsignsmod.lemon_sign": "Peanut Butter's Custom Sign",
+  "block.customsignsmod.melon_sign": "Fern's Custom Sign",
+  "block.customsignsmod.nectarine_sign": "VIX's Custom Sign",
+  "block.customsignsmod.orange_sign": "Poppy's Custom Sign",
+  "block.customsignsmod.pear_sign": "Pear's Custom Sign",
+
+
+  "creativetab.customsigns" : "Custom Signs"
+
+}
